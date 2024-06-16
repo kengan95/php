@@ -1,4 +1,4 @@
 <?php
  header("Access-Control-Allow-Origin: *");
- $cn = new mysqli("localhost", "id16698443_root","LVEgj74h-c6fDSlS","id16698443_arquitectura");
+ $cn = new mysqli("sql111.infinityfree.com", "if0_36738230","TviJBMfhzChr","if0_36738230_php");
 ?>
